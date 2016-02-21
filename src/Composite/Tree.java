@@ -1,4 +1,4 @@
-package Composite;
+package composite;
 
 /**
  * Created by sun on 16/2/19.
